@@ -1,2 +1,23 @@
-<!-- SHTML Wrapper - 404 Not Found -->
-<!--#exec cgi="/cgi-sys/fourohfour.cgi" -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Oops!</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/404.css">
+</head>
+<body>
+
+
+<h1>Oops, that file must have gotten lost in the fog</h1>
+
+<div class="center">
+<script type="text/javascript">
+	document.write(
+		'<p><button type="button" class="btn btn-secondary btn-lg" style="border: 3px solid black" onclick="javascript:history.back()">Go Back </button> </p>'
+		);
+</script>
+</div>
+
+
+</body>
+</html>
