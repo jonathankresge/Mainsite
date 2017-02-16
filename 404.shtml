@@ -16,6 +16,15 @@
 		'<p><button type="button" class="btn btn-secondary btn-lg" style="border: 3px solid black" onclick="javascript:history.back()">Go Back </button> </p>'
 		);
 </script>
+
+<!-- I need to figure out why this isn't working -->
+
+<!--<h2>Or</h2>
+<script type="text/javascript">
+	document.write(
+		'<p><button type="button" class="btn btn-secondary btn-lg" style="border: 3px solid black" onclick="javascript:window.location.href("http://www.jonathankresge.com")>Go Home</button> </p>'
+		);
+</script>  -->
 </div>
 
 

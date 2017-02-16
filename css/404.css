@@ -5,11 +5,13 @@ body {
 	background-position: center center fixed;
 }
 
-h1 {
-	margin-top: 20%;
+h1, h2 {
 	text-align: center;
 	color: white;
 	position: relative;
+}
+h1 {
+	margin-top: 20%;
 }
 
 .center {
